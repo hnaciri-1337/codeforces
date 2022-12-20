@@ -1061,3 +1061,96 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 </tr>
 </table>
 
+### Contest
+
+<table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
+<tr><th>#</th><th>Contest ID</th><th>Contest Name</th><th>Rank</th><th>Rating change</th><th>New Rating</th></tr>
+<tr>
+<td>1</td>
+<td><a href=https://codeforces.com/contest/1744>1744</a></td>
+<td>Codeforces Round  #828 (Div. 3)</td>
+<td>6869</td>
+<td>✅ +430</td>
+<td>430</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href=https://codeforces.com/contest/1743>1743</a></td>
+<td>Educational Codeforces Round 137 (Rated for Div. 2)</td>
+<td>5602</td>
+<td>✅ +323</td>
+<td>753</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href=https://codeforces.com/contest/1749>1749</a></td>
+<td>Educational Codeforces Round 138 (Rated for Div. 2)</td>
+<td>7216</td>
+<td>✅ +187</td>
+<td>940</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href=https://codeforces.com/contest/1754>1754</a></td>
+<td>Codeforces Round #829 (Div. 2)</td>
+<td>5773</td>
+<td>✅ +102</td>
+<td>1042</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href=https://codeforces.com/contest/1747>1747</a></td>
+<td>Codeforces Round #832 (Div. 2)</td>
+<td>9936</td>
+<td>✅ +19</td>
+<td>1061</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href=https://codeforces.com/contest/1759>1759</a></td>
+<td>Codeforces Round  #834 (Div. 3)</td>
+<td>4862</td>
+<td>✅ +65</td>
+<td>1126</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href=https://codeforces.com/contest/1760>1760</a></td>
+<td>Codeforces Round #835 (Div. 4)</td>
+<td>4407</td>
+<td>✅ +19</td>
+<td>1145</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href=https://codeforces.com/contest/1758>1758</a></td>
+<td>Codeforces Round #836 (Div. 2)</td>
+<td>2072</td>
+<td>✅ +108</td>
+<td>1253</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href=https://codeforces.com/contest/1766>1766</a></td>
+<td>Educational Codeforces Round 139 (Rated for Div. 2)</td>
+<td>5867</td>
+<td>❌-25</td>
+<td>1228</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href=https://codeforces.com/contest/1762>1762</a></td>
+<td>Codeforces Round #838 (Div. 2)</td>
+<td>5000</td>
+<td>✅ +4</td>
+<td>1232</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href=https://codeforces.com/contest/1767>1767</a></td>
+<td>Educational Codeforces Round 140 (Rated for Div. 2)</td>
+<td>767</td>
+<td>✅ +184</td>
+<td>1416</td>
+</tr>
+</table>
