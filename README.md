@@ -25,6 +25,15 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
 <tr>
+<td>118</td>
+<td><a href=https://codeforces.com/contest/1669/problem/F>Eating Candies</a></td>
+<td>F</td>
+<td>1100</td>
+<td>binary search, data structures, greedy, two pointers, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1669/submission/186295077>Link</a></td>
+</tr>
+<tr>
 <td>117</td>
 <td><a href=https://codeforces.com/contest/1747/problem/C>Swap Game</a></td>
 <td>C</td>
