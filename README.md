@@ -25,6 +25,24 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
 <tr>
+<td>117</td>
+<td><a href=https://codeforces.com/contest/1747/problem/C>Swap Game</a></td>
+<td>C</td>
+<td>1200</td>
+<td>games, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1747/submission/186236041>Link</a></td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href=https://codeforces.com/contest/978/problem/C>Letters</a></td>
+<td>C</td>
+<td>1000</td>
+<td>binary search, implementation, two pointers, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/978/submission/186235383>Link</a></td>
+</tr>
+<tr>
 <td>115</td>
 <td><a href=https://codeforces.com/contest/236/problem/A>Boy or Girl</a></td>
 <td>A</td>
