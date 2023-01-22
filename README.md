@@ -25,6 +25,42 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
 <tr>
+<td>124</td>
+<td><a href=https://codeforces.com/contest/999/problem/C>Alphabetic Removals</a></td>
+<td>C</td>
+<td>1200</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/999/submission/190124456>Link</a></td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href=https://codeforces.com/contest/479/problem/A>Expression</a></td>
+<td>A</td>
+<td>1000</td>
+<td>brute force, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/479/submission/190122124>Link</a></td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href=https://codeforces.com/contest/1709/problem/A>Three Doors</a></td>
+<td>A</td>
+<td>800</td>
+<td>brute force, greedy, implementation, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1709/submission/190120845>Link</a></td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href=https://codeforces.com/contest/420/problem/A>Start Up</a></td>
+<td>A</td>
+<td>1000</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/420/submission/190098695>Link</a></td>
+</tr>
+<tr>
 <td>120</td>
 <td><a href=https://codeforces.com/contest/1772/problem/B>Matrix Rotation</a></td>
 <td>B</td>
