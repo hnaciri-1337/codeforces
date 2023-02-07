@@ -25,6 +25,42 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
 <tr>
+<td>134</td>
+<td><a href=https://codeforces.com/contest/1791/problem/D>Distinct Split</a></td>
+<td>D</td>
+<td>1000</td>
+<td>brute force, greedy, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192648317>Link</a></td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href=https://codeforces.com/contest/1791/problem/C>Prepend and Append</a></td>
+<td>C</td>
+<td>800</td>
+<td>implementation, two pointers, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192644777>Link</a></td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href=https://codeforces.com/contest/1791/problem/B>Following Directions</a></td>
+<td>B</td>
+<td>800</td>
+<td>geometry, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192644026>Link</a></td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href=https://codeforces.com/contest/1791/problem/A>Codeforces Checking</a></td>
+<td>A</td>
+<td>800</td>
+<td>implementation, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192643227>Link</a></td>
+</tr>
+<tr>
 <td>130</td>
 <td><a href=https://codeforces.com/contest/988/problem/E>Divisibility by 25</a></td>
 <td>E</td>
