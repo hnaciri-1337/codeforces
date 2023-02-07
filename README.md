@@ -25,6 +25,60 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
 <tr>
+<td>130</td>
+<td><a href=https://codeforces.com/contest/988/problem/E>Divisibility by 25</a></td>
+<td>E</td>
+<td>2100</td>
+<td>brute force, greedy, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/988/submission/192486848>Link</a></td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href=https://codeforces.com/contest/474/problem/B>Worms</a></td>
+<td>B</td>
+<td>1200</td>
+<td>binary search, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/474/submission/192352944>Link</a></td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href=https://codeforces.com/contest/1790/problem/B>Taisia and Dice</a></td>
+<td>B</td>
+<td>800</td>
+<td>greedy, greedy, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1790/submission/190894642>Link</a></td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href=https://codeforces.com/contest/1790/problem/A>Polycarp and the Day of Pi</a></td>
+<td>A</td>
+<td>800</td>
+<td>implementation, math, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1790/submission/190890367>Link</a></td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href=https://codeforces.com/contest/420/problem/A>Start Up</a></td>
+<td>A</td>
+<td>1000</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/420/submission/190221686>Link</a></td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href=https://codeforces.com/contest/1709/problem/A>Three Doors</a></td>
+<td>A</td>
+<td>800</td>
+<td>brute force, greedy, implementation, math, </td>
+<td>GNU C11</td>
+<td><a href=https://codeforces.com/contest/1709/submission/190126515>Link</a></td>
+</tr>
+<tr>
 <td>124</td>
 <td><a href=https://codeforces.com/contest/999/problem/C>Alphabetic Removals</a></td>
 <td>C</td>
