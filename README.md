@@ -14,8 +14,8 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 	"Full name" : "HAITHAM NACIRI BENSAGHIR"
 	"Organization" : "1337 furure is loading"
 	"Country" : "Morocco"
-	"Rank" : "specialist"
-	"Rating" : "1416"
+	"Rank" : "pupil"
+	"Rating" : "1389"
 	"Max rating" : "1416"
 }
 
@@ -24,6 +24,339 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 
 <table align="center" border = "1px" cellpadding ="2px" cellspacing ="2px" >
 <tr><th>#</th><th>Probelm</th><th>Catagory</th><th>Rating</th><th>Tags</th><th>Programming Language</th><th>Solution</th></tr>
+<tr>
+<td>171</td>
+<td><a href=https://codeforces.com/contest/1808/problem/A>Lucky Numbers</a></td>
+<td>A</td>
+<td>900</td>
+<td>brute force, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1808/submission/199772386>Link</a></td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href=https://codeforces.com/contest/1809/problem/A>Garland</a></td>
+<td>A</td>
+<td>800</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1809/submission/198780421>Link</a></td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href=https://codeforces.com/contest/1809/problem/B>Points on Plane</a></td>
+<td>B</td>
+<td>1000</td>
+<td>binary search, greedy, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1809/submission/198776604>Link</a></td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href=https://codeforces.com/contest/1796/problem/A>Typical Interview Problem</a></td>
+<td>A</td>
+<td>800</td>
+<td>brute force, implementation, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1796/submission/198361500>Link</a></td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href=https://codeforces.com/contest/514/problem/A>Chewbaсca and Number</a></td>
+<td>A</td>
+<td>1200</td>
+<td>greedy, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/514/submission/198298756>Link</a></td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href=https://codeforces.com/contest/327/problem/A>Flipping Game</a></td>
+<td>A</td>
+<td>1200</td>
+<td>brute force, dp, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/327/submission/198294708>Link</a></td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href=https://codeforces.com/contest/1352/problem/C>K-th Not Divisible by n</a></td>
+<td>C</td>
+<td>1200</td>
+<td>binary search, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1352/submission/198293743>Link</a></td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href=https://codeforces.com/contest/1807/problem/F>Bouncy Ball</a></td>
+<td>F</td>
+<td>1700</td>
+<td>brute force, dfs and similar, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198292451>Link</a></td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href=https://codeforces.com/contest/1807/problem/G2>Subsequence Addition (Hard Version)</a></td>
+<td>G2</td>
+<td>1100</td>
+<td>bitmasks, dp, greedy, implementation, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198249664>Link</a></td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href=https://codeforces.com/contest/1807/problem/G1>Subsequence Addition (Easy Version)</a></td>
+<td>G1</td>
+<td>1100</td>
+<td>brute force, data structures, dp, greedy, implementation, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198246310>Link</a></td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href=https://codeforces.com/contest/1807/problem/D>Odd Queries</a></td>
+<td>D</td>
+<td>900</td>
+<td>data structures, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198181428>Link</a></td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href=https://codeforces.com/contest/1807/problem/C>Find and Replace</a></td>
+<td>C</td>
+<td>800</td>
+<td>greedy, implementation, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198149612>Link</a></td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href=https://codeforces.com/contest/1807/problem/B>Grab the Candies</a></td>
+<td>B</td>
+<td>800</td>
+<td>greedy, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198134390>Link</a></td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href=https://codeforces.com/contest/1807/problem/A>Plus or Minus</a></td>
+<td>A</td>
+<td>800</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1807/submission/198120202>Link</a></td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href=https://codeforces.com/contest/519/problem/B>A and B and Compilation Errors</a></td>
+<td>B</td>
+<td>1100</td>
+<td>data structures, implementation, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/519/submission/198032515>Link</a></td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href=https://codeforces.com/contest/313/problem/B>Ilya and Queries</a></td>
+<td>B</td>
+<td>1100</td>
+<td>dp, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/313/submission/198031782>Link</a></td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href=https://codeforces.com/contest/456/problem/A>Laptops</a></td>
+<td>A</td>
+<td>1100</td>
+<td>sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/456/submission/198008342>Link</a></td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href=https://codeforces.com/contest/270/problem/A>Fancy Fence</a></td>
+<td>A</td>
+<td>1100</td>
+<td>geometry, implementation, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/270/submission/198007238>Link</a></td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href=https://codeforces.com/contest/363/problem/B>Fence</a></td>
+<td>B</td>
+<td>1100</td>
+<td>brute force, dp, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/363/submission/197979518>Link</a></td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href=https://codeforces.com/contest/706/problem/B>Interesting drink</a></td>
+<td>B</td>
+<td>1100</td>
+<td>binary search, dp, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/706/submission/197960409>Link</a></td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href=https://codeforces.com/contest/158/problem/B>Taxi</a></td>
+<td>B</td>
+<td>1100</td>
+<td>*special, greedy, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/158/submission/197952259>Link</a></td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href=https://codeforces.com/contest/339/problem/B>Xenia and Ringroad</a></td>
+<td>B</td>
+<td>1000</td>
+<td>implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/339/submission/197900172>Link</a></td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href=https://codeforces.com/contest/230/problem/A>Dragons</a></td>
+<td>A</td>
+<td>1000</td>
+<td>greedy, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/230/submission/197899105>Link</a></td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href=https://codeforces.com/contest/122/problem/A>Lucky Division</a></td>
+<td>A</td>
+<td>1000</td>
+<td>brute force, number theory, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/122/submission/197897952>Link</a></td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href=https://codeforces.com/contest/131/problem/A>cAPS lOCK</a></td>
+<td>A</td>
+<td>1000</td>
+<td>implementation, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/131/submission/197896935>Link</a></td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href=https://codeforces.com/contest/1804/problem/B>Vaccination</a></td>
+<td>B</td>
+<td>1000</td>
+<td>greedy, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1804/submission/197263737>Link</a></td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href=https://codeforces.com/contest/1804/problem/A>Lame King</a></td>
+<td>A</td>
+<td>800</td>
+<td>greedy, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1804/submission/197253263>Link</a></td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href=https://codeforces.com/contest/1800/problem/B>Count the Number of Pairs</a></td>
+<td>B</td>
+<td>1000</td>
+<td>greedy, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1800/submission/195828870>Link</a></td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href=https://codeforces.com/contest/1800/problem/A>Is It a Cat?</a></td>
+<td>A</td>
+<td>800</td>
+<td>implementation, strings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1800/submission/195826182>Link</a></td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href=https://codeforces.com/contest/230/problem/B>T-primes</a></td>
+<td>B</td>
+<td>1300</td>
+<td>binary search, implementation, math, number theory, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/230/submission/194133971>Link</a></td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href=https://codeforces.com/contest/1778/problem/A>Flip Flop Sum</a></td>
+<td>A</td>
+<td>800</td>
+<td>greedy, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1778/submission/193713008>Link</a></td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href=https://codeforces.com/contest/500/problem/A>New Year Transportation</a></td>
+<td>A</td>
+<td>1000</td>
+<td>dfs and similar, graphs, implementation, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/500/submission/193516795>Link</a></td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href=https://codeforces.com/contest/1788/problem/C>Matching Numbers</a></td>
+<td>C</td>
+<td>1300</td>
+<td>constructive algorithms, greedy, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1788/submission/193089659>Link</a></td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href=https://codeforces.com/contest/1788/problem/B>Sum of Two Numbers</a></td>
+<td>B</td>
+<td>1100</td>
+<td>constructive algorithms, greedy, implementation, math, probabilities, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1788/submission/193086790>Link</a></td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href=https://codeforces.com/contest/1788/problem/A>One and Two</a></td>
+<td>A</td>
+<td>800</td>
+<td>brute force, implementation, math, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1788/submission/193084481>Link</a></td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href=https://codeforces.com/contest/1791/problem/G1>Teleporters (Easy Version)</a></td>
+<td>G1</td>
+<td>1100</td>
+<td>greedy, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192669295>Link</a></td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href=https://codeforces.com/contest/1791/problem/E>Negatives and Positives</a></td>
+<td>E</td>
+<td>1100</td>
+<td>dp, greedy, sortings, </td>
+<td>GNU C++17</td>
+<td><a href=https://codeforces.com/contest/1791/submission/192667750>Link</a></td>
+</tr>
 <tr>
 <td>134</td>
 <td><a href=https://codeforces.com/contest/1791/problem/D>Distinct Split</a></td>
@@ -1239,7 +1572,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>1</td>
 <td><a href=https://codeforces.com/contest/1744>1744</a></td>
-<td>Codeforces Round  #828 (Div. 3)</td>
+<td>Codeforces Round  828 (Div. 3)</td>
 <td>6869</td>
 <td>✅ +430</td>
 <td>430</td>
@@ -1263,7 +1596,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>4</td>
 <td><a href=https://codeforces.com/contest/1754>1754</a></td>
-<td>Codeforces Round #829 (Div. 2)</td>
+<td>Codeforces Round 829 (Div. 2)</td>
 <td>5773</td>
 <td>✅ +102</td>
 <td>1042</td>
@@ -1271,7 +1604,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>5</td>
 <td><a href=https://codeforces.com/contest/1747>1747</a></td>
-<td>Codeforces Round #832 (Div. 2)</td>
+<td>Codeforces Round 832 (Div. 2)</td>
 <td>9936</td>
 <td>✅ +19</td>
 <td>1061</td>
@@ -1279,7 +1612,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>6</td>
 <td><a href=https://codeforces.com/contest/1759>1759</a></td>
-<td>Codeforces Round  #834 (Div. 3)</td>
+<td>Codeforces Round  834 (Div. 3)</td>
 <td>4862</td>
 <td>✅ +65</td>
 <td>1126</td>
@@ -1287,7 +1620,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>7</td>
 <td><a href=https://codeforces.com/contest/1760>1760</a></td>
-<td>Codeforces Round #835 (Div. 4)</td>
+<td>Codeforces Round 835 (Div. 4)</td>
 <td>4407</td>
 <td>✅ +19</td>
 <td>1145</td>
@@ -1295,7 +1628,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>8</td>
 <td><a href=https://codeforces.com/contest/1758>1758</a></td>
-<td>Codeforces Round #836 (Div. 2)</td>
+<td>Codeforces Round 836 (Div. 2)</td>
 <td>2072</td>
 <td>✅ +108</td>
 <td>1253</td>
@@ -1311,7 +1644,7 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <tr>
 <td>10</td>
 <td><a href=https://codeforces.com/contest/1762>1762</a></td>
-<td>Codeforces Round #838 (Div. 2)</td>
+<td>Codeforces Round 838 (Div. 2)</td>
 <td>5000</td>
 <td>✅ +4</td>
 <td>1232</td>
@@ -1323,5 +1656,13 @@ For now, It contains all the problems I have solved at [Codeforces](https://code
 <td>767</td>
 <td>✅ +184</td>
 <td>1416</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href=https://codeforces.com/contest/1809>1809</a></td>
+<td>Educational Codeforces Round 145 (Rated for Div. 2)</td>
+<td>4382</td>
+<td>❌-27</td>
+<td>1389</td>
 </tr>
 </table>
